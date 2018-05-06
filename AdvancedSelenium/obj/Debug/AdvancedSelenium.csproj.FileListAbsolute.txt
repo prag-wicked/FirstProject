@@ -1,0 +1,12 @@
+C:\Users\NA\source\repos\BookLibrary\AdvancedSelenium\bin\Debug\AdvancedSelenium.pdb
+C:\Users\NA\source\repos\BookLibrary\AdvancedSelenium\bin\Debug\nunit.framework.dll
+C:\Users\NA\source\repos\BookLibrary\AdvancedSelenium\bin\Debug\WebDriver.dll
+C:\Users\NA\source\repos\BookLibrary\AdvancedSelenium\bin\Debug\WebDriver.Support.dll
+C:\Users\NA\source\repos\BookLibrary\AdvancedSelenium\bin\Debug\nunit.framework.xml
+C:\Users\NA\source\repos\BookLibrary\AdvancedSelenium\bin\Debug\WebDriver.xml
+C:\Users\NA\source\repos\BookLibrary\AdvancedSelenium\bin\Debug\WebDriver.Support.xml
+C:\Users\NA\source\repos\BookLibrary\AdvancedSelenium\obj\Debug\AdvancedSelenium.csprojResolveAssemblyReference.cache
+C:\Users\NA\source\repos\BookLibrary\AdvancedSelenium\obj\Debug\AdvancedSelenium.csproj.CoreCompileInputs.cache
+C:\Users\NA\source\repos\BookLibrary\AdvancedSelenium\obj\Debug\AdvancedSelenium.pdb
+C:\Users\NA\source\repos\BookLibrary\AdvancedSelenium\bin\Debug\AdvancedSelenium.exe
+C:\Users\NA\source\repos\BookLibrary\AdvancedSelenium\obj\Debug\AdvancedSelenium.exe
